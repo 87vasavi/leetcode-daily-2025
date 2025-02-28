@@ -169,4 +169,3 @@ def count_factors(n):
     for exponent in prime_factors.values():
         factor_count *= (exponent + 1)
         
-    return factor_count
